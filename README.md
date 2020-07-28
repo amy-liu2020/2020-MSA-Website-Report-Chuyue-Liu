@@ -29,7 +29,7 @@ This website is a resume website base on WordPress. The idea is to impress the e
 - We want to track the viewers and users of the website, so we can analyze the data to see whether we achieve enough amount of viewings. 
  
 
-### Plugins: 
+### Plugins and benefits: 
 
 To enhance the performance of this website, I used several plugins: 
 
